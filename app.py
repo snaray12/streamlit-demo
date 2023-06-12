@@ -17,7 +17,7 @@ my_js = '''
 
 def start_app():
 	st.title("Hello World")
-	html(my_html)
+	html(my_js)
 	st.write("Home Page")
 
 
